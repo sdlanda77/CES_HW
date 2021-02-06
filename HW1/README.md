@@ -3,7 +3,7 @@ Homework from Creative Embedded Systems, Spring 2021
 
 This repository contains the code to set up a generative art installation based off of the tides and wind at a specified location. Currently, the location is set to Washington, DC, on the Potomac River. Two scripts are included, one in python and the other in JavaScript using the p5.js library. 
 
-A video of the project can be found here:
+A video of the project can be found here:(https://youtu.be/fOT8XYG0oEY)
 
 # Materials
 - Raspberry Pi (I used a Raspberry Pi 4, but other models may work.)
