@@ -13,7 +13,7 @@ A video of the project can be found here:
 - Three female to female wires
 
 # API
-This generative art uses data from the (National Oceanic and Athmospheric Administration's Tides and Current Map)[https://tidesandcurrents.noaa.gov/]. Documentation on the API can be found (here)[https://api.tidesandcurrents.noaa.gov/api/prod/]
+This generative art uses data from the [National Oceanic and Athmospheric Administration's Tides and Current Map](https://tidesandcurrents.noaa.gov/). Documentation on the API can be found [here](https://api.tidesandcurrents.noaa.gov/api/prod/)
 
 # Visualization
 The visualization for this project must be run from a desktop or laptop. It can be started via the Processing IDE and can be run in any browser. The browser on the Raspberry Pi will mirror this by pointing it to the IP address and port number associated with the visualization on the desktop or laptop.
