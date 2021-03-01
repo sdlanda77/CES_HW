@@ -17,4 +17,4 @@ This repository contains the code to set up a interactive art installation that 
 The visualization for this project is a Processing sketch. It can be run on the Raspberry Pi to start the interactive device. 
 
 # Configuration
-Make sure that HW2_ESP.ino is loaded onto the ESP, and that the input sensors and various components are connected as shown in the images in the setup folder. You may need to press and hold reset on the ESP32 to start serial communication.
+Make sure that the pins used to connect the sensors to the esp32 match the ones specified in the "HW2_ESP.ino" arduino code. You may need to press and hold reset on the ESP32 to start serial communication once the esp is connected to the raspberry pi.
